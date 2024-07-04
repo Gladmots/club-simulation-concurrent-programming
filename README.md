@@ -1,4 +1,4 @@
-#Club Simulation with Concurrent Programming in Java
+# Club Simulation with Concurrent Programming in Java
 This project simulates the operations of an SClub using Java and Java Swing, focusing on concurrent programming principles.
 
 ## Overview
