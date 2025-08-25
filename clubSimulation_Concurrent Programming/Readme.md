@@ -1,5 +1,6 @@
 # ClubSimulation:
-![App Screenshot](clubSimulation_Concurrent%20Programming/Screenshot%202025-08-24%20194719.png)
+![App Screenshot](https://github.com/Gladmots/club-simulation-concurrent-programming/blob/main/clubSimulation_Concurrent%20Programming/Screenshot%202025-08-24%20194719.png?raw=1)
+
 ## Description
 This Java application simulates the behavior of patrons in a club using multithreading. Patrons enter the club, move around, interact with the bar, dance, and eventually leave. The simulation includes a graphical user interface (GUI) to visualize the patrons' movements and actions within the club.
 
