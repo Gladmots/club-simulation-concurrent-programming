@@ -24,7 +24,7 @@ The Club simulation project aims to demonstrate concurrent programming concepts 
 
 ## Usage: How to run the classes
 
-#Compile the classes:
+### Compile the classes:
 javac clubSimulation/*.java
 #Run the main class:
 $ java clubSimulation.ClubSimulation
